@@ -1,0 +1,22 @@
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Arquivos temporários
+*.npz
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
